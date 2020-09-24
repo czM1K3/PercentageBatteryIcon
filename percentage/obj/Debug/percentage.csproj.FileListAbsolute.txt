@@ -39,3 +39,17 @@ C:\Users\Oliver\Documents\GitHub\PercentageBatteryIcon\percentage\obj\Debug\百�
 C:\Users\Oliver\Documents\GitHub\PercentageBatteryIcon\percentage\obj\Debug\百分比电池图标.application
 C:\Users\Oliver\Documents\GitHub\PercentageBatteryIcon\percentage\obj\Debug\百分比电池图标.exe
 C:\Users\Oliver\Documents\GitHub\PercentageBatteryIcon\percentage\obj\Debug\百分比电池图标.pdb
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\percentage.csprojAssemblyReference.cache
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\percentage.Properties.Resources.resources
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\percentage.Settings.resources
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\percentage.csproj.GenerateResource.cache
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\percentage.csproj.CoreCompileInputs.cache
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\bin\Debug\BatteryPercentage.exe.config
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\bin\Debug\BatteryPercentage.exe.manifest
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\bin\Debug\BatteryPercentage.application
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\bin\Debug\BatteryPercentage.exe
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\bin\Debug\BatteryPercentage.pdb
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\BatteryPercentage.exe.manifest
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\BatteryPercentage.application
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\BatteryPercentage.exe
+D:\Michal\GitHub\PercentageBatteryIcon\percentage\obj\Debug\BatteryPercentage.pdb

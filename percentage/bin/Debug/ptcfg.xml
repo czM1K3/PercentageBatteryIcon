@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <fontsize>28</fontsize>
+  <xoffset>0</xoffset>
+  <yoffset>0</yoffset>
+  <normalColor>255,255,255</normalColor>
+  <chargingColor>Lime</chargingColor>
+  <lowColor>254,97,82</lowColor>
+  <autoHide>false</autoHide>
+</configs>

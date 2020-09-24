@@ -47,9 +47,9 @@ namespace percentage
             textBox1.Text = fontsize;
             textBox3.Text = xoffset;
             textBox4.Text = yoffset;
-            pictureBox1.BackColor = (Color)new ColorConverter().ConvertFromString(normalColor);   // 从字符串获取颜色
-            pictureBox2.BackColor = (Color)new ColorConverter().ConvertFromString(chargingColor);
-            pictureBox3.BackColor = (Color)new ColorConverter().ConvertFromString(lowColor);
+            pictureBox1.BackColor = (Color)new ColorConverter().ConvertFromInvariantString(normalColor);   // 从字符串获取颜色
+            pictureBox2.BackColor = (Color)new ColorConverter().ConvertFromInvariantString(chargingColor);
+            pictureBox3.BackColor = (Color)new ColorConverter().ConvertFromInvariantString(lowColor);
 
             // 解决textbox1自动聚焦的问题
             textBox2.Visible = false;

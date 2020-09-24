@@ -92,9 +92,9 @@ namespace percentage
             {
                 yoffset = 0;
             }
-            normalColor = (Color)new ColorConverter().ConvertFromString(normal);   // 从字符串获取颜色
-            chargingColor = (Color)new ColorConverter().ConvertFromString(charging);   // 从字符串获取颜色
-            lowColor = (Color)new ColorConverter().ConvertFromString(low);   // 从字符串获取颜色
+            normalColor = (Color)new ColorConverter().ConvertFromInvariantString(normal);   // 从字符串获取颜色
+            chargingColor = (Color)new ColorConverter().ConvertFromInvariantString(charging);   // 从字符串获取颜色
+            lowColor = (Color)new ColorConverter().ConvertFromInvariantString(low);   // 从字符串获取颜色
 
 
 
@@ -111,11 +111,11 @@ namespace percentage
             // 初始化上下文菜单项
             // 初始化上下文菜单项
             menuItem1.Index = 0;
-            menuItem1.Text = "设置";
+            menuItem1.Text = "Settings";
             menuItem1.Click += new EventHandler(settingButton_Click);     // 注册上下文菜单点击事件
 
             menuItem2.Index = 1;
-            menuItem2.Text = "退出";
+            menuItem2.Text = "Exit";
             menuItem2.Click += new EventHandler(exitButton_Click);     // 注册上下文菜单点击事件
 
             notifyIcon.ContextMenu = contextMenu;
